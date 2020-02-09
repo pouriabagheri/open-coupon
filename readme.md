@@ -1,4 +1,3 @@
-A Referral System for Laravel
-
+Coupon management System for Laravel
 
 Note: still not on packagist.
